@@ -1,3 +1,3 @@
 package di
 
-fun appModule() = listOf(repositoryModule, useCaseModule)
+fun appModule() = listOf(repositoryModule, useCaseModule, viewModelModule)
